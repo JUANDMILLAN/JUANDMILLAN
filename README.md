@@ -6,13 +6,21 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;600;800&display=swap" rel="stylesheet">
   
-</head>
-<body>
 
+  
+</head>
+
+<body>
+  <h1>👋 ¡Hola! Soy Juan Diego Millán Arango</h1>
   <header>
-    <h1>👋 ¡Hola! Soy Juan Diego Millán Arango</h1>
-    <p>Desarrollador de Software | 19 años | Desde Tuluá, Valle del Cauca</p>
+    <p align="center">
+  <img src="https://github.com/JUANDMILLAN/JUANDMILLAN/blob/main/juan_diego_banner.png?raw=true" alt="Bienvenido a mi perfil" width="40%">
+</p>
+  
+  <p>Desarrollador de Software | 19 años | Desde Tuluá, Valle del Cauca</p>
   </header>
+
+
 
 
 
